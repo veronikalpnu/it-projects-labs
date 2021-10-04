@@ -4,6 +4,8 @@ public interface InterfaceCalc
     void Put_A(double a); //сохранить а
  
     void Clear_A();
+    
+    SOMETHING WRONG!!!
  
     double Multiplication(double b);
  
